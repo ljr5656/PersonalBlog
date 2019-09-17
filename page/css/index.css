@@ -1,0 +1,49 @@
+.everyday{
+    background: #f5f5f5;
+    width: 96%;
+    text-align: left;
+    border-radius: 8px;
+    box-shadow: 3px 4px 3px #888888;
+    padding: 10px 15px;
+}
+.articl_list{
+    width: 100%;
+    margin-top: 15px;
+}
+.articl{
+    background: #f5f5f5;
+    display: inline-block;
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 3px 4px 3px #888888;
+    overflow: hidden;
+    text-align: left;
+    margin-top: 15px;
+}
+.articl_title{
+    display: inline-block;
+    font-size: 20px;
+    text-decoration: none;
+    color: #13102b;
+    padding: 15px 10px 10px 10px;
+}
+.articl_title:hover{
+    color: #337ab7;
+}
+.articl_content{
+    font-size: 14px;
+    color: #13102b;
+    padding: 0px 10px 20px 10px;
+    text-align: left;
+    word-wrap: break-word;
+    word-break: break-all;
+    overflow: hidden;
+}
+.articl_footer{
+    color: #f5f5f5;
+    background: #000;
+    width: 100%;
+    padding: 5px 10px;
+    font-size: 14px; 
+}
+
